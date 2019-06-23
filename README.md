@@ -1,6 +1,8 @@
-### babel-plugin-remove-method-react
+### babel-plugin-mobile-optimizer-react
 [![Build
-Status](https://api.travis-ci.org/sanketmaru/babel-plugin-remove-method-react.svg?branch=master)](https://travis-ci.org/sanketmaru/babel-plugin-remove-method-react)
+Status](https://api.travis-ci.org/sanketmaru/babel-plugin-mobile-optimizer-react.svg?branch=master)](https://travis-ci.org/sanketmaru/babel-plugin-mobile-optimizer-react)
+[![npm](https://img.shields.io/npm/v/babel-plugin-mobile-optimizer-react.svg?maxAge=3600)](https://www.npmjs.com/package/babel-plugin-mobile-optimizer-react)
+
 
 &nbsp;
 

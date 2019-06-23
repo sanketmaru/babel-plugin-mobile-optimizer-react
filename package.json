@@ -1,0 +1,30 @@
+{
+  "name": "babel-plugin-mobile-optimizer-react",
+  "version": "1.0.1",
+  "description": "Babel plugin that removes class methods and JSX elements based on conditions.",
+  "keywords": [
+    "babel",
+    "babel-plugin",
+    "mobile",
+    "jsx",
+    "react",
+    "optimize"
+  ],
+  "bugs": {
+    "url": "https://github.com/sanketmaru/babel-plugin-mobile-optimizer-react/issues"
+  },
+  "license": "MIT",
+  "author": "sanketmaru",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "sanketmaru/babel-plugin-mobile-optimizer-react"
+  },
+  "scripts": {
+    "test": "mocha --compilers js:babel-core/register"
+  },
+  "devDependencies": {
+    "babel-core": "6.22.1",
+    "mocha": "3.2.0"
+  }
+}
